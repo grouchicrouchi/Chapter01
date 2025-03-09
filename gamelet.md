@@ -11,4 +11,6 @@ A starter programme for writing JavaScript games.
 <script src="gamelet.js" />
 ```
 
-2. The script will detect when the left or right arrow keys are pressed and will move the ball element accordingly.
+2. This script will detect when the left or right arrow keys are pressed and will move the ball element accordingly.
+
+# Learning slowly
